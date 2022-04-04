@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AgeCalculator</string>
+    <string name="date">Tug\'ilgan kuningizni kiriting</string>
+    <string name="age">Yoshni Hisoblash</string>
+</resources>
